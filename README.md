@@ -2,12 +2,12 @@
 
 ## 👀 I’m interested in
 - Web development
+- AI and ML technology
 - Building interactive user interfaces with React.js
 - Contributing to open source projects
 
 ## 🌱 I’m currently learning
-- Advanced React.js concepts
-- State management with Redux
+- Backend with Fast API , a python framework
 - Modern web development practices
 
 ## 💞️ I’m looking to collaborate on
